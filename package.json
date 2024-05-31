@@ -2,7 +2,7 @@
   "name": "@webartisanbros/directus-extension-o2m-tree-view",
   "description": "A Directus extension that provides a tree view (Interface) for one-to-many relationships like the one used by Notion.",
   "icon": "extension",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
   "keywords": [
     "directus",
