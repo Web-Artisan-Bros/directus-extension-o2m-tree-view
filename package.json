@@ -34,5 +34,6 @@
     "build": "directus-extension build",
     "dev": "directus-extension build -w --no-minify",
     "link": "directus-extension link"
-  }
+  },
+  "license": "MIT"
 }
