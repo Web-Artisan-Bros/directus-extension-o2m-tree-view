@@ -7,12 +7,17 @@
   "keywords": [
     "directus",
     "directus-extension",
-    "directus-extension-interface"
+    "directus-extension-interface",
+    "o2m",
+    "treee-view",
+    "one to many"
   ],
   "type": "module",
   "files": [
     "dist"
   ],
+  "homepage": "https://github.com/Web-Artisan-Bros/directus-extension-o2m-tree-view",
+  "repository": "https://github.com/Web-Artisan-Bros/directus-extension-o2m-tree-view.git",
   "git": "https://github.com/Web-Artisan-Bros/directus-extension-o2m-tree-view.git",
   "author": {
     "name": "Web Artisan Bros",
