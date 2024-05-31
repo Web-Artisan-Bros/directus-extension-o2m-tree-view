@@ -1,4 +1,4 @@
-One to Many - Tree View
+# One to Many - Tree View
 A Directus extension that provides a tree view (Interface) for one-to-many relationships like the one used by Notion.
 
 ![img.png](img.png)
